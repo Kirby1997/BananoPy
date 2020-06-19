@@ -1,5 +1,7 @@
 # BananoPy
 
+# This version of BananoPy is depricated. Please use the new version maintained by Milkyklim https://github.com/milkyklim/bananopy
+
 BananoPy is an all in one library for communicating with Banano/Nano nodes.
 
 BananoPy contains nearly every single RPC call on https://docs.nano.org in the form of a simple python function call making it easy for anyone to make the most out of their node.
